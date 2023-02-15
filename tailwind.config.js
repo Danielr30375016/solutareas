@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'fontTittle':['Lobster', 'cursive']
+        'fontTittle':['Lobster', 'cursive'],
+        'fontIntroduction':[ 'Montserrat', 'sans-serif'],
       }
     },
   },
