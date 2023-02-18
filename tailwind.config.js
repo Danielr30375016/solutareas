@@ -8,6 +8,7 @@ module.exports = {
       fontFamily: {
         'fontTittle':['Lobster', 'cursive'],
         'fontIntroduction':[ 'Montserrat', 'sans-serif'],
+        'oswald':['Gloock', 'serif'],
       }
     },
   },
