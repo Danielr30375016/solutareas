@@ -6,7 +6,7 @@ const Introduction = () => {
             <div className="w-full flex justify-center py-10 backdrop-blur-[50px]">
                 <h2 className=" w-2/4 flex justify-center font-oswald 
                 text-zinc-900 text-5xl font-medium ...">
-                    Ofrecemos soluciones en las siguientes areas</h2>
+                    Ofrecemos soluciones en las siguientes áreas</h2>
             </div>
 
             <div className="w-full h-full flex flex-wrap justify-center backdrop-blur-[50px]">
@@ -24,7 +24,7 @@ const Introduction = () => {
                             alt="cience"
                             src="https://images.pexels.com/photos/5184957/pexels-photo-5184957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"></img>
                     </div>
-                    <h2 className="text-3xl font-oswald text-sky-50 bg-gray-900 ... py-2">Calculo</h2>
+                    <h2 className="text-3xl font-oswald text-sky-50 bg-gray-900 ... py-2">Cálculo</h2>
                 </div>
                 <div className="w-3/12 h-1/4  m-1">
                     <div>
@@ -33,7 +33,7 @@ const Introduction = () => {
                            
                             src="https://images.pexels.com/photos/8472938/pexels-photo-8472938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"></img>
                     </div>
-                    <h2 className="text-3xl font-oswald text-sky-50 bg-gray-900 ... py-2">Fisica</h2>
+                    <h2 className="text-3xl font-oswald text-sky-50 bg-gray-900 ... py-2">Física</h2>
                 </div>
                 <div className="flex flex-row ... justify-center ... py-10 backdrop-blur-[50px]">
                 <div className="w-3/12 h-5/6  m-1 backdrop-blur-[50px]">
@@ -42,7 +42,7 @@ const Introduction = () => {
                             alt="cience"
                             src="https://images.pexels.com/photos/4386476/pexels-photo-4386476.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"></img>
                     </div>
-                    <h2 className="text-3xl font-oswald text-sky-50 bg-gray-900 ... py-2">Economia</h2>
+                    <h2 className="text-3xl font-oswald text-sky-50 bg-gray-900 ... py-2">Economía</h2>
                 </div>
                 <div className="w-6/12 h-100  m-1 ">
                     <div className="">
